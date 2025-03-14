@@ -3,7 +3,8 @@ This Project Showcases The Interactive Dashboard using MS EXCEL For Product Sale
 **Project Objectives**:-
 This is a data of a sales executive target hit work in a week to acheive target % in a week.So,that the sales executive can understand their customers and their target grow more in a week.
 
-Questions (KPIs)
+Questions (KPIs):-
+
 . Compare top 5 Sales executive made higher sales.
 
 . create single dashboards for bottom sales executive of different region.
